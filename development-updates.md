@@ -161,7 +161,7 @@ The actual project development is the main part of the program. Post your regula
 | [Filip Siroky](https://github.com/fisiroky)                    |        |        |        |        |        |         |         |         |         |         |         |         |
 | [Gaston Zanitti](https://github.com/gzanitti)                  |        |        |        |        |        |         |         |         |         |         |         |         |
 | [Gbolahan](https://github.com/galadd)                          |        |        |        |        |        |         |         |         |         |         |         |         |
-| [Geemo](https://github.com/GeemoCandama)                       |        |        |        |        |        |         |         |         |         |         |         |         |
+| [Geemo](https://github.com/GeemoCandama)                       |[Update 5](https://hackmd.io/@geemo/Sy4UwYlTn)        |        |        |        |        |         |         |         |         |         |         |         |
 | [Godspower](https://github.com/Godspower-Eze)                  |        |        |        |        |        |         |         |         |         |         |         |         |
 | [Han](https://github.com/weiihann)                             |        |        |        |        |        |         |         |         |         |         |         |         |
 | [Hesham](https://github.com/gr8h/)                             |        |        |        |        |        |         |         |         |         |         |         |         |
